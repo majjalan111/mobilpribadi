@@ -68,35 +68,43 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mod SR3 Single Glass",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png"
+      "name": "Mod Mobil pribadi",
+      "image": "https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadifitur.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Mod SR3 Single Glass",
-      "title": "MOD SR3 Single Glass Scania K360iB by Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass1.html",
+      "category": "Mod Mobil pribadi",
+      "title": "MOD Mobil Pribadi Mewah",
+      "image": "https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadifitur.png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadi1.html",
       "video": ""
     },
 {
       "id": 2,
-      "category": "MOD SR3 Single Glass Panorama v2 by Thien",
-      "title": "Kumpulan truk fuso bagian 2",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass2.html",
+      "category": "Mod Mobil pribadi",
+      "title": "Mod Mobil Pribadi Keren",
+      "image": "https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadifitur.png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadi2.html",
       "video": ""
     },
 {
       "id": 3,
-      "category": "Mod SR3 Single Glass",
-      "title": "Livery Pack v2 SR3 Single Glass Scania K360iB Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass3.html",
+      "category": "Mod Mobil pribadi",
+      "title": "Mod Mobil Pribadi Ceper",
+      "image": "https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadifitur.png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadi3.html",
       "video": ""
-    }  
+    },
+{
+      "id": 4,
+      "category": "Mod Mobil pribadi",
+      "title": "Mod Mobil Pribadi Modifikasi",
+      "image": "https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadifitur.png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/mobilpribadi/main/mobilpribadi3.html",
+      "video": ""
+    }    
 		
   ]
 }
